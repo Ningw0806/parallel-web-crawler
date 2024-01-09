@@ -1,0 +1,6 @@
+.idea/
+target/
+*.iml
+profileData.txt
+.DS_Store
+.github
